@@ -14,5 +14,6 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
+ls -l dati_privati.txt
+chmod u+x dati_privati.txt
 
